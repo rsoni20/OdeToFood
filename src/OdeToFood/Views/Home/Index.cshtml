@@ -1,11 +1,21 @@
-﻿<html>
+﻿@model OdeToFood.ViewModels.HomePageViewModel
+
+<html>
 <head>
     <title>Home</title>
 </head>
 <body>
     <h1>Welcome to Home Page</h1>
-    <div>
-        @Model.Name
-    </div>
+   <table>
+       <h1>@Model.CurrentGreeting</h1>
+       @foreach (var restaurant in Model.Restaurants)
+       {
+        <tr>
+            <td>@restaurant.Id</td>
+            <td>@restaurant.Name</td>
+        </tr>
+       }
+       
+   </table>
 </body>
 </html>

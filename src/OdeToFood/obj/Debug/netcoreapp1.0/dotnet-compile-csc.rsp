@@ -168,5 +168,7 @@
 "C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Startup.cs"
 "C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Controllers\AboutController.cs"
 "C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Controllers\HomeController.cs"
-"C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Models\Restaurant.cs"
+"C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Entities\Restaurant.cs"
 "C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Services\Greeter.cs"
+"C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\Services\RestaurantData.cs"
+"C:\Users\ravij\OneDrive\WebDevelopement\dotNet\OdeToFood\src\OdeToFood\ViewModels\HomePageViewModel.cs"
